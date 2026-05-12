@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://NitroBrownstein.github.io/readme-k98ih6/sitemap.xml
